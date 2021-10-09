@@ -1,0 +1,40 @@
+
+#image-comp{
+    border:1px solid black;
+    width:800px;
+    height:550px;
+    box-sizing: border-box;
+}
+
+#image-comp>#main{
+    border:1px solid black;
+    width:800px;
+    height:400px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+#image-comp>#main>img{
+    width:800px;
+    height:400px;
+}
+
+#image-comp>#img_list{
+    border-top:1px solid green;
+    border-bottom:1px solid green;
+    width:800px;
+    height:120px;
+    box-sizing: border-box;
+}
+
+#image-comp>#img_list>div{
+    float:left;
+    margin:0;
+    width:80px;
+    height:50px;
+}
+
+#image-comp>#img_list>div>img{
+    width:80px;
+    height:50px;
+}

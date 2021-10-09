@@ -1,0 +1,27 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+#header{
+  width:90%;
+  height:100px;
+  margin:0 auto;
+  margin-bottom:50px;
+  padding-left:200px;
+  padding-top:10px;
+  box-sizing: border-box;
+}
+
+#header>img{
+  width:380px;
+  height:80px;
+  margin-top: 15px;
+  background-color: green;
+
+}
+
+#car-list{
+  width:90%;
+  margin:0 auto;
+}
